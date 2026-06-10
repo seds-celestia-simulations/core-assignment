@@ -1,8 +1,8 @@
 # SEDS Celestia Simulations Core Assignment
 
-Welcome! If you're reading this, you’re looking to join the Simulations vertical of SEDS Celestia. We’re a bunch of developers, math nerds, and physics enthusiasts who love building complex systems from scratch. In the past, we've mostly focused on hardcore physics based systems, from building a fluid simulation to a black hole simulations. 
+Welcome! If you're reading this, you’re looking to join the Simulations vertical of SEDS Celestia. We’re a bunch of developers, math nerds, and physics enthusiasts who love building complex systems from scratch. In the past, we've mostly worked on hardcore physics based systems using GPU acceleration, low level programming and performance optimizations to handle the compllexity of our simulations. 
 
-Moving forward, though, we’re branching out way beyond just physics based simulations into verious other domains. If you like seeing complex math come to life visually through code using tools like GPU acceleration, compute shaders, you're in the right place.
+Moving forward, though, we’re branching out way beyond just physics based simulations into verious other domains. If you like research, seeing complex math come to life visually through code you're in the right place.
 
 ## Your Assignment Options
 
