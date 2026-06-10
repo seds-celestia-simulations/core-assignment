@@ -8,18 +8,25 @@ Moving forward, though, we’re branching out way beyond just physics based simu
 
 You have **two options** for this induction assignment. You are only required to complete **either one** of them based on what interests you more:
 
-### 1. **Option 1: GRIN (Gradient Index) Optics**
+### 1. **GRIN (Gradient Index) Optics**
 
 (Add brief description here)
 
-### 2. **Option 2: Atmospheric Scattering**
+### 2. **Atmospheric Scattering**
 
 <img width="1920" height="1051" alt="monte carlo+sampling" src="https://github.com/user-attachments/assets/3fe8f77e-efd5-4854-8aac-96dcb76dd10e" />
 
 (add brief description here)
 
 
-### Submission Rules & Grading
+## Submission Rules & Grading
 
 Each option is broken down into multiple progressive stages. **Do not worry if you don't manage to finish the entire assignment!** If you get stuck or run out of time, just submit whatever you have completed. We value your approach, code structure, and effort over a flawless final stage. Resources have been provided in the PDFs pertaining to each assignment option (download PDF to access links).
 To submit, you must push your code to a **public GitHub repository** and submit the repository link via the provided Google Form.
+
+## Contact and support
+
+If you get stuck on the math, face a weird bug, or just need a sanity check, don't hesitate to reach out. We've split our support team based on what you're working on:
+ * **General Doubts:** Akshay — 8296089389
+ * **GRIN Optics Sim Help:** Bhuvanesh — 8667464028
+ * **Atmospheric Scattering Sim Help:** [Name] — [Phone Number]
