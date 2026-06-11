@@ -33,4 +33,4 @@ To submit, you must push your code to a **public GitHub repository** and submit 
 If you get stuck on the math, face a weird bug, or just need a sanity check, don't hesitate to reach out. We've split our support team based on what you're working on:
  * **General Doubts:** Akshay — 8296089389
  * **GRIN Optics Sim Help:** Bhuvanesh — 8667464028
- * **Atmospheric Scattering Sim Help:** [Name] — [Phone Number]
+ * **Atmospheric Scattering Sim Help:** Hardik — 8920844701
