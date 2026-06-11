@@ -10,7 +10,11 @@ You have **two options** for this induction assignment. You are only required to
 
 ### 1. **GRIN (Gradient Index) Optics**
 
-(Add brief description here)
+<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
+  <img src="GRIN Optics/assets/Screenshot from 2026-06-10 04-55-07.png" alt="GRIN Optics Level 4 - Luneburg Lens" style="max-width: 48%; height: auto;" />
+  <img src="GRIN Optics/assets/Screenshot from 2026-06-11 04-42-04.png" alt="GRIN Optics Fisheye" style="max-width: 48%; height: auto;" />
+</div>
+
 
 ### 2. **Atmospheric Scattering**
 
