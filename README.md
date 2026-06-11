@@ -10,6 +10,8 @@ You have **two options** for this induction assignment. You are only required to
 
 ### 1. **GRIN (Gradient Index) Optics**
 
+In this assignment, we will delve into the principles of GRIN optics, analyze the behavior of light, methods to simulate the light path accurately using various numerical integrators, and design a few GRIN lenses.
+
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
   <img src="GRIN Optics/assets/Screenshot from 2026-06-10 04-55-07.png" alt="GRIN Optics Level 4 - Luneburg Lens" style="max-width: 48%; height: auto;" />
   <img src="GRIN Optics/assets/Screenshot from 2026-06-11 04-42-04.png" alt="GRIN Optics Fisheye" style="max-width: 48%; height: auto;" />
@@ -18,9 +20,11 @@ You have **two options** for this induction assignment. You are only required to
 
 ### 2. **Atmospheric Scattering**
 
-<img width="1920" height="1051" alt="monte carlo+sampling" src="https://github.com/user-attachments/assets/3fe8f77e-efd5-4854-8aac-96dcb76dd10e" />
+In this assignment we will be building a physically based atmospheric rendering paradigm from the ground up with basic atmospheric physics and progressively upgrade the architecture to handle stochastic probability, multiple scattering.
 
-(add brief description here)
+<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center;">
+<img width="1920" height="1051" alt="monte carlo+sampling" src="https://github.com/user-attachments/assets/3fe8f77e-efd5-4854-8aac-96dcb76dd10e" style="max-width: 48%; height: auto;" />
+</div>
 
 
 ## Submission Rules & Grading
